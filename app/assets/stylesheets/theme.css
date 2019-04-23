@@ -1451,6 +1451,7 @@ nav.dismiss-active {
 }
 .background-image-holder.fadeIn {
   opacity: 1;
+  background-image:url('<%= asset_path("artclose.jpg") %> ');
 }
 .parallax > .background-image-holder,
 .parallax .slides li > .background-image-holder {
@@ -1871,7 +1872,7 @@ nav.dismiss-active {
   }
 }
 .header-8 {
-  background: #6dc77a;
+  background: #eeeff3;
 }
 .header-8 h2 {
   margin-bottom: 10px;
